@@ -16,4 +16,7 @@ Sample skills OOP python:
 
 - class methods
 
+- no Meta
+
+
 
