@@ -12,4 +12,8 @@ Sample skills OOP python:
 
 - magic methods
 
+- static methods
+
+- class methods
+
 
