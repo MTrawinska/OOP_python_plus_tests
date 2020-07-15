@@ -36,9 +36,6 @@ class SUPTest(unittest.TestCase):
     def test_user_count(self):
         self.assertRaises(ValueError, SUP, 8, 0, 1, 10,"epoxy")
 
-    def test_user_count(self):
-        self.assertRaises(ValueError, SUP, 8, 0, 1, 1,"Rh-")
-
     def test_init_valid(self):
         edge_case = SUP.individual_baby_SUP()
         edge_case = (8, 35, 8, 2, "epoxy")
