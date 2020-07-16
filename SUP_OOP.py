@@ -28,7 +28,6 @@ class SUP(SurfingBoard):
     _max_sup_weight = 11
     _max_user_weight = 130
     _max_user_number = 2
-    _sup_type = ["epoxy", "inflatable", "soft_top", "other"]
 
     def __init__(self, sup_weight, user_weight, gear_weight, user_number, model):
         super(SUP, self).__init__(sup_weight, user_weight, gear_weight)
