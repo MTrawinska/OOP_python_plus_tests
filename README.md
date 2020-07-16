@@ -14,6 +14,7 @@ Sample skills OOP python:
 - setters
 - static methods
 - no Meta
+ 
 
-
+Please do not copy or share without contacting.
 
