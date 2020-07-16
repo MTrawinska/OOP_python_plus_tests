@@ -4,8 +4,10 @@ Sample skills OOP python:
 - atributes
 - getters
 - class methods
+- class variable
 - encapsulation (public/ protected/ private <dunder>)
 - inheritance
+ - instance variable
 - magic methods  
 - methods
 - method overwriting  
